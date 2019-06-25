@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lesson4_LinearLayout</string>
+    <string name="screen_new_account">New Account</string>
+    <string name="screen_steps">1/2 steps</string>
+    <string name="screen_upload">Upload a profile picture (optional)</string>
+    <string name="screen_name">NAME</string>
+    <string name="screen_user">USER</string>
+    <string name="screen_sign_up_name">Kevin Arleo</string>
+    <string name="screen_sign_up_user">keevarleo</string>
+    <string name="screen_username_in_use">Username already in use.</string>
+    <string name="button_next">next</string>
+    <string name="screen_login">Not the first time here?</string>
+    <string name="button_login">Log in.</string>
+</resources>
